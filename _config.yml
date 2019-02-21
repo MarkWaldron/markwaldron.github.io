@@ -20,7 +20,9 @@ topics:
     web_url: https://github.com/topics/javascript
     image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/javascript/javascript.png
 
-  - name: Web design
+  - name: Go
+    web_url: https://github.com/topics/golang
+    image_url: https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/golang/golang.png
 
   - name: NodeJS
     web_url: https://github.com/topics/nodejs
